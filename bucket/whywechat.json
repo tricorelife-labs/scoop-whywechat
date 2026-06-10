@@ -1,12 +1,12 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Local-first Windows desktop app and CLI for querying local WeChat data.",
   "homepage": "https://github.com/tricorelife-labs/whywechat-releases",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tricorelife-labs/whywechat-releases/releases/download/v0.2.5/whywechat-v0.2.5-windows-x86_64.zip",
-      "hash": "5225efc4dd9131909213e01725582eb34f70f82d8154717cb45387f6ed7cc510"
+      "url": "https://github.com/tricorelife-labs/whywechat-releases/releases/download/v0.2.6/whywechat-v0.2.6-windows-x86_64.zip",
+      "hash": "4acebd1596059888352648716a35c10a5e9850bcbdea0a48edddf71f40f98413"
     }
   },
   "bin": [
